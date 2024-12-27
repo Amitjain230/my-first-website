@@ -16,12 +16,7 @@
     height: 50px;
     width: 100px;
 }
-.logo{
-    background-image: url("amazon logo.webp");
-    background-size: cover;
-    height: 50px;
-    width: 100px;
-}
+
 .border{
     border: 2px solid transparent;
 }
@@ -237,7 +232,7 @@ body{
     background-color: #FFD814;
     margin-top: 20px;
     margin-left: 30px;
-    border-radius: 30%;
+    border-radius: 50px;
     border:  #FFD814;
     padding-left: 100px;
     padding-right: 100px;
@@ -808,8 +803,8 @@ hr{
 
 }
 .ch1,.ch2,.ch3,.ch4,.ch5{
-    border: 1px solid black;
-    height: 500px;
+    border: 1px solid rgb(223, 222, 222);
+    height: 590px;
     width: 290px;
 }
 .check{
@@ -932,9 +927,382 @@ hr{
     margin-left: 20px;
     font-size: 12px;
     display: flex;
+    margin-top: 5px;
     
     
 }
+.v{
+    margin-left: 3px;
+    
+}
+.a9{
+    margin-left: 10px;
+    color: rgb(80, 169, 204);
+}
+.a9:hover{
+    color: brown;
+
+}
+.a1k{
+    color: rgb(192, 184, 184);
+    font-size: 14px;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+.limited{
+    background-color: rgb(187, 61, 61);
+    border-color: rgb(187, 61, 61);
+    color: white;
+    padding: 4px;
+    width: 140px;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: none;
+}
+.rupay{
+    margin-left: 18px;
+    font-size: 13px;
+}
+.price{
+    display: flex;
+    font-size: 28px;
+}
+.mrp{
+    font-size: 11px;
+    margin-top: 14px;
+    margin-left: 3px;
+    color: #BFB2AC;
+}
+.line{
+    color: lightgray;
+    margin-left: -30px;
+    margin-top: 2px;
+    
+    
+}
+.off{
+    font-size: 15px;
+    margin-top: 9px;
+    margin-left: 10px;
+    
+}
+.off1{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 14px;
+    color: #BFB2AC;
+}
+.cc1{
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: 30px;
+}
+.cc2{
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: 50px;
+}
+.add1{
+    background-color: rgb(255, 225, 29);
+    border-radius: 50px;
+    border: none;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.img111{
+    margin-left: 110px;
+    margin-top: 15px; 
+    display: flex;
+}
+.panel-ops5{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(251, 248, 248);
+    color: gray;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 13px;
+    padding: 15px;
+}
+.body2{
+    background-color: white;
+}
+.kitchen{
+    font-size: 12px;
+    margin-left: 40px;
+    color: gray;
+}
+.logo5{
+    margin-top: 9px;
+
+}
+.paragraph{
+    font-size: 25px;
+    margin-left: 50px;
+    
+}
+.bbb1,.bbb2,.bbb3{
+    margin-top: 5px;
+}
+.visit{
+    font-size: 14px;
+    color: rgb(80, 169, 204);
+    margin-top: 2px;
+    
+}
+.visit:hover{
+    color: brown;
+}
+.visita{
+    text-decoration: none;
+}
+.grid11{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-template-rows: repeat(2,auto);
+    height: 530px;
+    border: 1px solid black;
+    width: 220px;
+    margin-left: 80px;
+    display: flex;
+}
+.a198{
+    font-size: 25px;
+    
+    margin-top: 10px;
+}
+.rupay1{
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.a00{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.freee1 p{
+    margin-top: 100px;
+    margin-left: -70px;
+    font-size: 14px;
+}
+.icon22{
+    margin-left: -70px;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-right: 10px;
+    color: rgb(80, 169, 204);
+}
+.icon22:hover{
+    color: brown;
+}
+.stock p{
+    margin-top: 30px;
+    font-size: 20px;
+    color: green;
+}
+.pay{
+    margin-top: -80px;
+    
+    
+}
+.pay p{
+    font-size: 11px;
+} 
+.pay p a{
+    margin-left: 20px;
+}
+.select{
+    margin-left: -50px;
+    margin-top: 20px;
+
+}
+.add2{
+    margin-left: -60px;
+    border-radius: 10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: rgb(255, 225, 29);
+    border: none;
+
+}
+.add3{
+    margin-left: -60px;
+    border-radius: 10px;
+    padding-left: 62px;
+    padding-right: 62px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 5px;
+    background-color: rgb(255, 153, 29);
+    border: none;
+
+}
+.input111{
+    margin-top: 9px;
+    margin-left: -70px;
+}
+.add4{
+    margin-left: -63px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: rgb(246, 244, 241);
+    border: none;
+    margin-top: 7px;
+    border: 1px solid black;
+}
+.add4:hover{
+    background-color: rgba(250, 253, 255, 0.86);
+}
+.icon45{
+    font-size: 14px;
+    display: flex;
+    margin-top: 5px;
+}
+.a1kk{
+    font-size: 11px;
+    margin-top: 16px;
+}
+.hrr{
+    margin-top: -1px;
+}
+.limited1{
+    background-color: rgb(187, 61, 61);
+    border-color: rgb(187, 61, 61);
+    color: white;
+    padding: 10px;
+    width: 140px;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: none;
+    margin-top: 15px;
+}
+.mrp1{
+    font-size: 14px;
+    margin-top: 14px;
+    margin-left: 33px;
+    color: #5e5c5a;
+}
+.hrrr{
+    width: 22px;
+    margin-left: 90px;
+    margin-top: -9.5px;
+}
+.deal1{
+    font-size: 14px;
+    color: #BFB2AC;
+    margin-top: 10px;
+}
+.prise1{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: -20px;
+    color: brown;
+}
+.prise2
+{
+    font-size: 15px;
+    margin-left: 80px;
+    margin-top: 4px;
+    color: brown;
+}
+.save1{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: #31374E;
+}
+.tax1{
+    font-size: 16px;
+    margin-left: 100px;
+}
+.EMI{
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.roll{
+    margin-left: -400px;
+    margin-top: 15px;
+    font-size: 19px;
+
+}
+.offer{
+   display: flex;
+}
+.offerss{
+    margin-left: 190px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.grid111{
+    display: grid;
+    grid-template-columns: repeat(12,auto);
+    grid-template-rows: repeat(2,auto);
+    gap: -10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.grid1111,.grid1112,.grid1113{
+    border: 1px solid rgb(213, 213, 213);
+    height: 110px;
+    width: 150px;
+    border-radius: 5px;
+    
+}
+.partner1{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.buy11{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.a22{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(80, 169, 204);
+}
+.a22:hover{
+    color: brown;
+}
+.buy111{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.buy112{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+.img222{
+    margin-left: -600px;
+    margin-top: -120px; 
+    
+}
+.img1111{
+    border-radius: 8px;
+}
+.img1111:hover{
+    border: 3px solid rgb(54, 177, 225);
+    box-shadow: 2px 2px 5px 2px skyblue;
+
+}
+
+
+
+
 
 
 
