@@ -1299,6 +1299,146 @@ hr{
     box-shadow: 2px 2px 5px 2px skyblue;
 
 }
+.body3{
+    background-color: white;
+}
+.foot-pannel3{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: 14px;
+}
+.foot-pannnel4{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.panel-ops6{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(251, 248, 248);
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    padding: 15px;
+}
+.form1{
+    margin-left: 500px;
+    margin-right: 400px;
+    background-color: #a2a6a6;
+}
+.name11{
+    margin-left: 120px;
+}
+input::placeholder{
+    color: rgb(153, 195, 153);
+}
+.submit1{
+    margin-left: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    color: #37475a;
+    background-color: rgb(255, 153, 29);
+    border: none;
+    border-radius: 10px;
+}
+@media screen and (max-width:600px)  {
+    .shop-section{
+        width: 100%;
+        display: block;
+    }
+    .box1,.box2,.box3,.box4{
+        width: 100%;
+    }
+    .border{
+        font-size: 5px;
+    }
+    .logo5{
+        height: 20px;
+        width: 50px;
+    }
+    .add-first{
+        font-size: 10px;
+    }
+    .add-icon{
+        font-style: 12px;
+    }
+    .search-select{
+        font-size: 10px;
+    }
+    .search-input{
+        width:70px;
+    }
+    .list p span{
+        font-size: 7px;
+    }
+    .nav-second{
+        font-size: 5px;
+    }
+    .return-anchor span{
+        font-size: 7px;
+    }
+    .nav-cart i{
+        font-size: 10px;
+    }
+    .shop-section2{
+        display: block;
+        margin-top: 290px;
+        margin-bottom: 80px;
+        width: 100%;
+    }
+    .section1{
+        height: 200px;
+        display: block;
+    }
+    .section1 img{
+        height: 60px;
+        width: 80px;
+        }
+        .shop-section4{
+            display: block;
+            margin-bottom: 50px;
+        }
+        .shop-section7 img{
+            height: 100px;
+            width: 370px;
+            margin-left: -300px;
+        }
+        .shop-section8{
+            display: block;
+            margin-bottom: 50px;
+        }
+        .shop-section11{
+            display: block;
+            margin-bottom: 50px;
+        }
+        .hero-section{
+            width: 100%;
+            background-image: url(firstimg.jpg);
+            background-size: contain;
+            background-repeat: no-repeat;
+            height:500px
+        }
+        .aw1e{
+           margin-bottom: 200px;
+        }
+        .awe12{
+            margin-top: -100px;
+        }
+        .box555{
+            background-color: white;
+        }
+        
+        
+}
 
 
 
