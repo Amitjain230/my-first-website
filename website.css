@@ -1350,6 +1350,9 @@ input::placeholder{
     border: none;
     border-radius: 10px;
 }
+.box555{
+    background-color: white;
+}
 @media screen and (max-width:600px)  {
     .shop-section{
         width: 100%;
@@ -1456,10 +1459,118 @@ input::placeholder{
             width: 50%
         }
         .badsheetimg1{
-            width: 100px;
             height: 90px;
             margin-left: -50px;
             margin-top: 10px;
+        }
+        .img111 img{
+            height: 190px;
+            width: 170px;
+            margin-left: -90px;
+        }
+        .kitchen{
+            font-size: 6px;
+            margin-left: -0px;
+        }
+        .bbb,.bbb2,.bbb3,.bbb1{
+            font-size: 10px;
+            margin-left: -30px;
+        }
+        .visit{
+            font-size: 5px;
+            margin-left: -30px;
+        }
+        .icon45{
+            font-size: 9px;
+            margin-left: -30px;
+        }
+        .v,.a9{
+            font-size: 9px;
+            margin-left: -0px;
+        }
+        .seller{
+            font-size: 5px;
+            margin-left: -20px;
+        }
+        .a1kk{
+            font-size: 7px;
+            margin-left: -30px;
+        }
+        .hrr{
+            width: 220px;
+            margin-left: -30px;
+        }
+        .limited1{
+            font-size: 6px;
+            margin-left: -20px;
+            padding-left: -10px;
+            padding-right: -10px;
+        }
+        .roll{
+            font-size: 6px;
+            margin-left: -177px;
+            margin-top: -180px;
+        }
+        .mrp1{
+            font-size: 7px;
+            margin-left: -20px;
+            margin-bottom: -5px;
+        }
+        .hrrr{
+            margin-left: 0px;
+            margin-top: -1px;
+        }
+        .deal1{
+            font-size: 9px;
+        }
+        .prise1{
+            font-size: 10px;
+            
+        }
+        .prise2{
+            font-size: 10px;
+        }
+        .save1,.tax1,.EMI{
+            font-size: 10px;
+            margin-left: -5px;
+        }
+        .h1rr{
+            width: 220px;
+            margin-left: -30px;
+        }
+        .grid111{
+            display: block;
+        }
+        .grid1111,.grid1112,.grid1113{
+            height: 60px;
+            font-size: 10px;
+            width: 50px;
+            margin-top: 5px;
+
+        }
+        .partner1{
+            font-size: 7px;
+        }
+        .buy11,.buy112,.buy111{
+            font-size: 5px;
+        }
+        .a22{
+            font-size: 7px;
+            margin-top: -1px;
+        }
+        .offerss{
+            font-size: 9px;
+            margin-left: 99px;
+        }
+        .img1111{
+           height: 10px;
+           width: 20px;
+            
+        }
+        .img222{
+            height: 40px;
+            margin-left: 1px;
+            margin-top: 20px;
         }
         
         
