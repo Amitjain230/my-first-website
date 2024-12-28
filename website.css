@@ -1572,6 +1572,38 @@ input::placeholder{
             margin-left: 1px;
             margin-top: 20px;
         }
+        .img11 a img{
+            height: 100px;
+            width: 120px;
+            
+        }
+        .font1,.font3{
+            font-size: 9px;
+        }
+        .img22 img{
+            height: 100px;
+            width: 120px;
+            margin-left: -70px;
+            
+        }
+        .font2,.font4{
+            font-size: 9px;
+            margin-left: -70px;
+        }
+        .img33 img{
+            height: 100px;
+            width: 120px;
+            
+        }
+        .img44 img{
+            height: 100px;
+            width: 120px;
+            margin-left: -70px;
+            
+        }
+        .shop-section,.shop-section2,.shop{
+            width: 450px;
+        }
         
         
 }
