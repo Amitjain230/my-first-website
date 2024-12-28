@@ -1604,6 +1604,43 @@ input::placeholder{
         .shop-section,.shop-section2,.shop{
             width: 450px;
         }
+        .ch1,.ch2,.ch3,.ch4,.ch5{
+            width: 100%;
+        }
+        .badsheetimg1,.badsheetimg2,.badsheetimg3,.badsheetimg4,.badsheetimg5{
+            width: 70%;
+            margin-left: 30px;
+        }
+        .sign-in,.sign-in2{
+            width: 100%;
+            margin-left: -0px;
+        }
+        .log0am2 a img{
+            margin-left: 60px;
+        }
+        .form input{
+            width: 100%;
+        }
+        #enter{
+            width: 70%;
+        }
+        .input2,.input1{
+            width: 70%;
+        }
+        .hr{
+            width: 100%;
+        }
+        .detail1{
+            width: 100%;
+        }
+        .form1{
+            width: 90%;
+            margin-left: 40px;
+        }
+        .submit1{
+            margin-left: 10px;
+        }
+        
         
         
 }
